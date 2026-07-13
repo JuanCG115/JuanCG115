@@ -1,31 +1,31 @@
-# ¡Hola! Soy Juan
+# Hi there! I'm Juan
 
-Un apasionado del desarrollo de software enfocado en la creación de soluciones eficientes, arquitecturas limpias y lógica robusta. Me especializo en el desarrollo **Backend**, aunque no descarto involucrarme en otras areas.
+A passionate software developer focused on building efficient solutions, clean architectures, and robust logic. I specialize in **Backend** development, but I am always open to expanding my skills into other areas.
 
 ---
 
-### Mi Stack Tecnológico
+### My Tech Stack
 
-- **Backend:** Java (17+), Spring Boot, C# (.NET), Django
+- **Backend:** Java (17+), Spring Boot, C# (.NET)
 - **Frontend:** React, TypeScript, JavaScript
-- **Herramientas & DevOps:** Docker, Git & GitHub, Postman
-- **Bases de Datos:** PostgreSQL, MySQL
+- **Tools & DevOps:** Docker, Git & GitHub, Postman
+- **Databases:** PostgreSQL, MySQL
 
 ---
 
-### En lo que estoy trabajando / Aprendiendo
+### Currently Working On / Learning
 
-- Participando en emulaciones de equipos reales en No Country **Hackathon ONE 2026**.
-- Profundizando en **Pruebas Unitarias e Integración** (JUnit, Mockito).
-- Estudiando principios de **Clean Architecture** y patrones de diseño.
+- Participating in real-world team simulations at No Country **Hackathon ONE 2026**.
+- Deepening my knowledge in **Unit & Integration Testing** (JUnit, Mockito).
+- Studying **Clean Architecture** principles and software design patterns.
 
 ---
 
-### Mis Estadísticas de GitHub
+### My GitHub Stats
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JuanCG115&layout=compact&theme=vision-and-dark)
 
 ---
 
-**¿Cómo contactarme?**
+**How to reach me?**
 - [LinkedIn](https://www.linkedin.com/in/juan-camarillo-gutierrez/)
