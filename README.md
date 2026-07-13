@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Juan 👋
 
-<!--
-**JuanCG115/JuanCG115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Un apasionado del desarrollo de software enfocado en la creación de soluciones eficientes, arquitecturas limpias y lógica robusta. Me especializo en el desarrollo **Backend**, aunque no descarto involucrarme en otras areas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+
+- **Backend:** Java (17+), Spring Boot, C# (.NET), Django
+- **Frontend:** React, TypeScript, JavaScript
+- **Herramientas & DevOps:** Docker, Git & GitHub, Postman
+- **Bases de Datos:** PostgreSQL, MySQL
+
+---
+
+### 🚀 En lo que estoy trabajando / Aprendiendo
+
+- 👥 Participando en emulaciones de equipos reales en No Country **Hackathon ONE 2026**.
+- 🧪 Profundizando en **Pruebas Unitarias e Integración** (JUnit, Mockito).
+- 📐 Estudiando principios de **Clean Architecture** y patrones de diseño.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCG115&layout=compact&theme=vision-and-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCG115&show_icons=true&theme=vision-and-dark)
+
+---
+
+📬 **¿Cómo contactarme?**
+- [LinkedIn](https://www.linkedin.com/in/juan-camarillo-gutierrez/)
