@@ -23,8 +23,7 @@ Un apasionado del desarrollo de software enfocado en la creación de soluciones 
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCG115&layout=compact&theme=vision-and-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCG115&show_icons=true&theme=vision-and-dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JuanCG115&layout=compact&theme=vision-and-dark)
 
 ---
 
