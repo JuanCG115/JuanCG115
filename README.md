@@ -23,7 +23,7 @@ A passionate software developer focused on building efficient solutions, clean a
 
 ### My GitHub Stats
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JuanCG115&layout=compact&theme=vision-and-dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JuanCG115&layout=compact&theme=vision-and-dark&hide=html,css,Tex)
 
 ---
 
